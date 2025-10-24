@@ -24,3 +24,12 @@ p{font-size:20px;opacity:.95;margin:0}
   background:#ffeb3b;color:#4e54c8;
   box-shadow:0 14px 28px rgba(0,0,0,.2);
 }
+
+/* Nom / signature */
+.signature {
+  margin-top: 25px;
+  font-size: 22px;
+  font-weight: 600;
+  opacity: 0.95;
+  text-shadow: 0 0 6px rgba(255,255,255,0.6);
+}
